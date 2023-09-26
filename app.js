@@ -1,6 +1,6 @@
 let conductor = new BandJS();
 conductor.setTimeSignature(4,4);
-conductor.setTempo(120);
+conductor.setTempo(140);
 
 let playButton = document.querySelector(".playButton");
 playButton.addEventListener('click', function() {
