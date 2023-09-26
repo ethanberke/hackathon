@@ -1,7 +1,16 @@
-.button.play {
-    width: 74px;
-    height: 74px;
-    border-style: solid;
-    border-width: 37px;
-    border-color: #202020;
-  }
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.playButton {
+    margin-top: 10px;
+}
