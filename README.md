@@ -1,0 +1,1 @@
+This repo utilizes the Band.js library, a library that incorporates pitches, rhythms, and instruments to create music/sounds.  I transcribed the intro to Spanish Flea by Herb Alpert and Tijuana Brass.  I did minimal html/css to create a web page that displays the album artwork that this song comes from as well as a button to press play.
